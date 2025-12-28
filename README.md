@@ -1,15 +1,13 @@
 <!--
 **walidksb/walidksb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi, it's Walid...👋</h1>
+<h1 align="center">Hi, I'm Walid...👋</h1>
 
 # 💫 About Me:
-- 🦇 I build AI & Computer Vision systems ...
-- 🌱 By day, I’m Computer Graphics Student ...
-- 👁️ By night, I’m a Brand Designer ...
-- 💬 Ask me about Deep Learning, OCR, YOLO, AI Agents, Vision pipelines, model optimization, or how to make machines see.
+- I build AI & Computer Vision systems ...
+- I’m Computer Graphics Student ...
+- Ask me about Deep Learning, OCR, YOLO, AI Agents, Vision pipelines, model optimization, or how to make machines see.
 - 📫 Contact: walid.kesbi@gmail.com
-- ⚡ Fun fact: I don’t just solve problems. I hunt them.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/donkesbi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/walid_010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/walid._.kesbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walidkesb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walid.kesbi) 
